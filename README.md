@@ -63,7 +63,7 @@ GitHub üzerinden bir Pull Request (PR) oluşturun.
 ```
 ## 👤 Author
 ```text
-[egnake] (https://github.com/egnake) - Geliştirici & Tasarımcı
+EGNAKE - Geliştirici & Tasarımcı
 ```
 ## 📄 License
 ```text
