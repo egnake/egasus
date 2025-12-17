@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Log dosyaları
+*.log
+egasus.log
+
+# Config (Eğer kişisel ayar tutacaksan ignore et, yoksa kalabilir)
+# egasus.conf
+
+# Sanal ortam (varsa)
+venv/
+env/
+.env
