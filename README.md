@@ -46,3 +46,26 @@ Cihazınızı USB ile bağlayın (veya aynı ağdaysanız Wi-Fi menüsünü kull
 
 ```bash
 python egasus.py
+```
+## 🤝 Contributing
+```text
+Bu projeyi geliştirmek için katkılarınızı bekliyoruz! Hata düzeltmeleri, yeni özellikler veya dokümantasyon iyileştirmeleri yapabilirsiniz.
+
+Bu repoyu Fork'layın.
+
+Yeni bir özellik dalı (branch) oluşturun: git checkout -b feature/YeniOzellik
+
+Değişikliklerinizi yapın ve commit'leyin: git commit -m 'feat: Yeni özellik eklendi'
+
+Branch'inizi push'layın: git push origin feature/YeniOzellik
+
+GitHub üzerinden bir Pull Request (PR) oluşturun.
+```
+## 👤 Author
+```text
+[egnake] (https://github.com/egnake) - Geliştirici & Tasarımcı
+```
+## 📄 License
+```text
+Bu proje MIT Lisansı ile lisanslanmıştır.
+```
